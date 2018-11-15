@@ -1,9 +1,9 @@
-## Code Integrity: Methodology for an Ethical and Sustainable Code
+## Code Integrity: Methodology for an EthicThe methodology needs to be filledal and Sustainable Code
 ### Version 1.0.0
 
-#### The following methodology determines if a project complies with basic ethical and sustainable practices at a global, local and individual scale. The methodology needs to be revised and updated with every feature upgrade of the project.
+#### The Code Integrity Methodology determines if a project complies with basic ethical and sustainable practices at a global, local and individual scale. The methodology needs to be revised and updated with every feature upgrade of the project.
 
-#### To be filled by the team leader of by all team members in consensus, whichever is more convenient and/or practical.
+#### The methodology needs to be filled by the team leader of by all team members in consensus, whichever is more convenient and/or practical.
 
 ## CODE INTEGRITY. THE METHODOLOGY.
 
@@ -51,7 +51,7 @@
 - [ ] Individual gain over common good
 - [ ] Spies individuals
 - [ ] Collects data without user authorization
-- [ ] 
+- [ ]
 
 9- What problem(s) does this project/app intend to solve globally? Please don't try to solve non existent problems.
 - [ ]
