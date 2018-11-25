@@ -72,6 +72,6 @@ This project or application:
 - [ ] Positive
 - [ ] Negative
 
-### CODE INTEGRITY ASSESSMENT REPORTIMG (**coming soon**)
+### CODE INTEGRITY ASSESSMENT REPORT (**coming soon**)
 
-Run the Code Integrity Assessment Report for a comprehensive analysis and reporting on the ethical impact of the project or application.
+Run the Code Integrity Assessment Report for a comprehensive analysis and report on the ethical impact of the project or application.
