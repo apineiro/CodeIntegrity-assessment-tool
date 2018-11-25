@@ -7,6 +7,9 @@
 
 ## CODE INTEGRITY. THE METHODOLOGY.
 
+// Automation, AI, Driverless cars, 
+
+
 ### GLOBALLY
 
 
