@@ -8,7 +8,7 @@
 ## CODE INTEGRITY: The Assessment Tool.
 
 
-This project or application:
+#### This project or application:
 
 1- Supports physical and/or psychological harm to humans or animals?
 - [ ] Yes
