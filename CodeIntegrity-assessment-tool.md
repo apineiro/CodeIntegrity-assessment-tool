@@ -91,8 +91,8 @@ Run the Code Integrity Assessment Report for a comprehensive analysis and report
 
 The Code Integrity Reporting Tool will grade the project or application based on a 5 stars scale. Each star correspond to each of the following criteria:
 
-1- Physical or psychological harm to persons and/or animals.
-2- Harm to the planet in the short, medium or long term.
-3- Stealing, Privacy, Security, and Civil Liberties.
-4- Benefits of the project or application.
-5- Drawbacks of the project or application.
+##### 1- Physical or psychological harm to persons and/or animals.
+##### 2- Harm to the planet in the short, medium or long term.
+##### 3- Stealing, Privacy, Security, and Civil Liberties.
+##### 4- Benefits of the project or application.
+##### 5- Drawbacks of the project or application.
