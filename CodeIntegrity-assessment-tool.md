@@ -94,5 +94,5 @@ The Code Integrity Reporting Tool will grade the project or application based on
 ##### 1- Physical or psychological harm to persons and/or animals.
 ##### 2- Harm to the planet in the short, medium or long term.
 ##### 3- Stealing, Privacy, Security, and Civil Liberties.
-##### 4- Benefits of the project or application.
-##### 5- Drawbacks of the project or application.
+##### 4- Benefits of project or application.
+##### 5- Drawbacks of project or application.
