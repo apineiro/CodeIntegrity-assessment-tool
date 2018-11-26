@@ -1,24 +1,26 @@
-## Code Integrity: Assessment Tool for an Ethical and Sustainable Code
+## Code Integrity: Assessment Tool for an Ethical and Sustainable Code.
 ### Version 1.0.0
 
-#### The Code Integrity Assessment Tool determines if a project complies with basic ethical and sustainable practices at a global, local and individual scale. The Assessment Tool needs to be revised and updated with every feature upgrade of the project.
+#### The Code Integrity Assessment Tool determines if a project complies with ethical and sustainable practices.
+#### The Assessment Tool needs to be revised and updated with every new feature or upgrade of the project.
 
-#### This Assessment Tool needs to be edited/updated by the team leader of by all team members in consensus, whichever is more convenient and/or practical.
+#### This Assessment Tool needs to be updated by the team leader or by all team members in consensus, whichever is more convenient and/or practical.
 
 ## CODE INTEGRITY: The Assessment Tool.
 
+### PLEASE ANSWER.
 
-### This project or application:
+### The project, system, or application:
 
 1. Supports any physical and/or psychological harm to humans or animals?
 - [ ] Yes
 - [ ] No
 
-2. Supports or promotes disharmony and/or volatile reactions or responses between people in general or among end user?
+2. Supports or promotes disharmony and/or volatile reactions or disrespect between people in general or among end user?
 - [ ] Yes
 - [ ] No
 
-3. Supports or promotes addictive behaviour among end users?
+3. Supports or promotes addictive behavior among end users?
 - [ ] Yes
 - [ ] No
 
@@ -26,37 +28,45 @@
 - [ ] Yes
 - [ ] No
 
-5. Supports any harm to the planet in the short, medium or long term in any of the following ways?
+5. Intends to be autonomous with the use of Artificial Intelligence, increasingly evolving from human-controlled to automated, and to autonomous, with the ability to act on its own without or with a minimum of human input or intervention.
+- [ ] Yes
+- [ ] No
+
+6. Intends to automate processes to an extend that humans are no longer required and in which job opportunities are significantly or severely affected or reduced.
+- [ ] Yes
+- [ ] No
+
+7. Supports any harm to the planet in the short, medium or long term in any of the following ways?
 - [ ] Endangers Natural Resources
 - [ ] Promotes Global Warming
 - [ ] Deforestation
-- [ ] Droughs
+- [ ] Droughts
 - [ ] Floods
 - [ ] Uncontrolled Development
-- [ ] Polutes Soil and/or Water
+- [ ] Pollutes Soil and/or Water
 
-6. Secretly steals information or data from the end user without his/her consentment?
+8. Secretly steals or collects information, files, or data from the end user or third persons without their consent?
 - [ ] Yes
 - [ ] No
 
-7. Hides functionality that is not part of its intended purpose?
+9. Hides functionality that is not part of its intended purpose?
 - [ ] Yes
 - [ ] No
 
-8. Secretely exposes security vulnerabilities, harms computer of end user, or users end user's computer to harm other computers, servers or devices?
+10. Secretly exposes security vulnerabilities, harms or uses the computer in which runs or is installed to harm or affect other computer, servers or devices on the same network?
 - [ ] Yes
 - [ ] No
 
-9. Endangers or restricts civil liberties of or spies on end user or other persons?
+11. Endangers or restricts civil liberties of or spies on end user or third persons?
 - [ ] Yes
 - [ ] No
 
-10. What problem(s) does this project or application intend to solve?
+12. What problem(s) does this project or application intend to solve?
 - [ ] xxx
 - [ ] yyy
 - [ ] zzz
 
-11. List benefits of this project or application to the global or local community.
+13. List benefits of this project or application to the global or local community.
 - [ ] Critical Thinking
 - [ ] Social Engagement
 - [ ] Collaboration
@@ -66,22 +76,22 @@
 - [ ] Improves Security
 - [ ] Common good over individual gain
 
-12. List potential drawbacks of this project or app to the global or local community.
+14. List potential drawbacks of this project or app to the global or local community.
 - [ ] Reinforces Stereotypes
 - [ ] Noncooperation
 - [ ] Reduces Security
 - [ ] Deteriorates Privacy
 - [ ] Individual gain over common good
 - [ ] Spies individuals
-- [ ] Collects data without user consentment
+- [ ] Collects data without user consent
 
 ### ANALYZE & DISCUSS AMONG TEAM MEMBERS. PLEASE UPDATE AFTER GROUP DISCUSSION:
 
-13. Balance of impact of this project or application to global community.
+15. Balance of impact of this project or application to global community.
 - [ ] Positive
 - [ ] Negative
 
-14. Balance of impact of this project or application to local community.
+16. Balance of impact of this project or application to local community.
 - [ ] Positive
 - [ ] Negative
 
@@ -93,6 +103,6 @@ The Code Integrity Reporting Tool will grade the project or application based on
 
 ##### 1- Physical or psychological harm to persons and/or animals.
 ##### 2- Harm to the planet in the short, medium or long term.
-##### 3- Stealing, Privacy, Security, and Civil Liberties.
+##### 3- Stealing, Privacy, Security, and/or Civil Liberties.
 ##### 4- Benefits of project or application.
 ##### 5- Drawbacks of project or application.
