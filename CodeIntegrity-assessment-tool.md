@@ -12,7 +12,8 @@
 
 ### PLEASE EDIT THIS DOCUMENT AND ADD AN X BETWEEN THE BRAKETS WHEREVER IS APPLICABLE TO YOUR PROJECT. THEN SAVE THE DOCUMENT AND FOLLOW THE INSTRUCTIONS ON THE FILE README.MD.
 
-1.  Planet, Environment, and Natural Resources.
+1.  #### Planet, Environment, and Natural Resources.
+
     This project:
 
     - [ ] Endangers Natural Resources
@@ -23,17 +24,19 @@
     - [ ] Promotes Uncontrolled Development
     - [ ] Pollutes Soil and/or Water
 
-2.  Society, Wealth, and Sustainable Practices.
+2.  #### Society, Wealth, and Sustainable Practices.
+
     This project:
 
-    - [ ] Automate processes to an extend that humans are no longer required and in which job opportunities are significantly or severely affected or reduced.
+    - [ ] Automates processes to an extend that humans are no longer required and in which job opportunities are significantly or severely affected or reduced.
     - [ ] Supports or promotes social engagement.
     - [ ] Supports or promotes collaboration.
     - [ ] Supports or promotes common good over individual gain.
     - [ ] Reinforces stereotypes.
     - [ ] Supports or promotes individual gain over common good.
 
-3.  Individual's (humans/animals) Physical and Psychological Well Being.
+3.  #### Individual's (humans/animals) Physical and Psychological Well Being.
+
     This project:
 
     - [ ] Supports or promotes physical harm to humans.
@@ -47,7 +50,8 @@
     - [ ] Supports or promotes human values.
     - [ ] Supports or promotes productivity.
 
-4.  Cybersecurity and Civil Liberties.
+4.  #### Cybersecurity and Civil Liberties.
+
     This project:
 
     - [ ] Secretly steals or collects information, files, or data from the end user or third persons without their consent?
@@ -69,7 +73,8 @@
     - [ ] Attacks.
     - [ ] Randsomware.
 
-5.  Emerging Technologies.
+5.  #### Emerging Technologies.
+
     This project:
 
     - [ ] Increasingly evolves from human-controlled to automated, and to autonomous, with the ability to act on its own without or with a minimum of human input or intervention.
