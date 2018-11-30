@@ -23,6 +23,8 @@
     - [ ] Promotes Floods.
     - [ ] Promotes Uncontrolled Development.
     - [ ] Pollutes Soil and/or Water.
+    - [ ] Promotes to reduce consumption, reuse, or recycle.
+    - [ ] Secretely degrades de quality or performance of a service or product to increase or accelerate consumption only for individual benefit or profit.
 
 2.  #### Society, Wealth, and Sustainable Practices.
 
