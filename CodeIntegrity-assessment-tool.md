@@ -16,24 +16,24 @@
 
     This project:
 
-    - [ ] Endangers Natural Resources
-    - [ ] Promotes Global Warming
-    - [ ] Promotes Deforestation
-    - [ ] Promotes Droughts
-    - [ ] Promotes Floods
-    - [ ] Promotes Uncontrolled Development
-    - [ ] Pollutes Soil and/or Water
+    - [ ] Endangers Natural Resources.
+    - [ ] Promotes Global Warming.
+    - [ ] Promotes Deforestation.
+    - [ ] Promotes Droughts.
+    - [ ] Promotes Floods.
+    - [ ] Promotes Uncontrolled Development.
+    - [ ] Pollutes Soil and/or Water.
 
 2.  #### Society, Wealth, and Sustainable Practices.
 
     This project:
 
     - [ ] Automates processes to an extend that humans are no longer required and in which job opportunities are significantly or severely affected or reduced.
-    - [ ] Supports or promotes social engagement.
-    - [ ] Supports or promotes collaboration.
-    - [ ] Supports or promotes common good over individual gain.
-    - [ ] Reinforces stereotypes.
-    - [ ] Supports or promotes individual gain over common good.
+    - [ ] Supports or promotes social engagement, meaning that end users are engaged to seek for or support a more just society with more opportunities for those that have less education or resources.
+    - [ ] Supports or promotes collaboration, meaning that end users are engaged to contribute rather than to compete with each other.
+    - [ ] Supports or promotes common good over individual gain, meaning that the project's author, owner(s) or collaborator(s) prioritize to benefit society and community gain over their own individual profit or benefit.
+    - [ ] Reinforces stereotypes, meaning that benefits a group among another, or promotes prejudjement of certain groups based on their physical appearance, belief system or traditions.
+    - [ ] Supports or promotes individual gain over common good, meaning that the project's author, owner(s) or collaborator(s) seek to have individual gain or benefit at expense of affecting society in any possible way.
 
 3.  #### Individual's (humans/animals) Physical and Psychological Well Being.
 
@@ -45,9 +45,9 @@
     - [ ] Supports or promotes disharmony among people or end users.
     - [ ] Supports or promotes volatility or tension amoung people or end users.
     - [ ] Supports or promotes disrespect among people or end users.
-    - [ ] Supports the use of substances that potentially harm persons or animals.
-    - [ ] Supports or promotes critical thinking.
-    - [ ] Supports or promotes human values.
+    - [ ] Supports the use of substances (drugs, hazard substances or products) that directly or indirectly harm persons or animals.
+    - [ ] Supports or promotes critical thinking, meaning that promotes the use of logic and reason over blinly trusting information without further analysis or questioning.
+    - [ ] Supports or promotes human values, meaning universal values such as peace, freedom, social progress, equal rights, human dignity (applies to animals as well).
     - [ ] Supports or promotes productivity.
 
 4.  #### Cybersecurity and Civil Liberties.
@@ -59,16 +59,17 @@
     - [ ] Secretly exposes security vulnerabilities to the host computer, server or devices on the network.
     - [ ] Infects with malware or virus the host computer, server or devices on the network.
     - [ ] Reestricts any civil liberties protected by the constitution where the end user resides.
+    - [ ] Supports or promotes civil liberties, such as freedom of conscience, freedom of press, freedom of religion, freedom of expression, freedom of assembly, the right to security and liberty, freedom of speech, the right to privacy, the right to equal treatment under the law and due process, the right to a fair trial, and the right to life.
     - [ ] Spies on end user or third persons.
-    - [ ] Promotes privacy.
+    - [ ] Supports the ability of an individual or group to seclude themselves, or information about themselves, and thereby express themselves selectively.
     - [ ] Improves or promotes security.
-    - [ ] Reduces Security.
-    - [ ] Deteriorates Privacy.
+    - [ ] Reduces the security of the host computer or device.
+    - [ ] Deteriorates individual and/or group privacy.
     - [ ] Spies on individuals, groups or communities.
     - [ ] Collects data without user consent.
-    - [ ] Content.
+    - [ ] Scans and/or records user content without user knowledge and/or consent.
+    - [ ] Uses the host computer or device to spy, control, degrade performance, secretely mine cryptocurrency, infect or attack the host computer, network or other network(s) without public knowledge or consent.
     - [ ] Copyright.
-    - [ ] Civil Liberties.
     - [ ] Online survelliance.
     - [ ] Attacks.
     - [ ] Randsomware.
@@ -86,21 +87,14 @@
     - [ ] Genom-based Treatment.
     - [ ] Social Credit Systems.
 
-6.  What kind of problem does this project or application intend to solve?
-    - [ ]
-    - [ ]
-    - [ ]
-    - [ ]
-    - [ ]
-
 ### ANALYZE & DISCUSS AMONG TEAM MEMBERS. PLEASE UPDATE AFTER GROUP DISCUSSION:
 
-7. Balance of impact of this project or application to global community.
+6. Balance of impact of this project or application to global community.
 
 - [ ] Positive
 - [ ] Negative
 
-8. Balance of impact of this project or application to local community.
+7. Balance of impact of this project or application to local community.
 
 - [ ] Positive
 - [ ] Negative
