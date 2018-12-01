@@ -12,47 +12,7 @@
 
 ### PLEASE EDIT THIS DOCUMENT AND ADD AN X BETWEEN THE BRAKETS WHEREVER IS APPLICABLE TO YOUR PROJECT. THEN SAVE THE DOCUMENT AND FOLLOW THE INSTRUCTIONS ON THE FILE README.MD.
 
-1.  #### Planet, Environment, and Natural Resources.
-
-    This project:
-
-    - [ ] Endangers Natural Resources.
-    - [ ] Promotes Global Warming.
-    - [ ] Promotes Deforestation.
-    - [ ] Promotes Droughts.
-    - [ ] Promotes Floods.
-    - [ ] Promotes Uncontrolled Development.
-    - [ ] Pollutes Soil and/or Water.
-    - [ ] Promotes to reduce consumption, reuse, or recycle.
-    - [ ] Secretely degrades de quality or performance of a service or product to increase or accelerate consumption only for individual benefit or profit.
-
-2.  #### Society, Wealth, and Sustainable Practices.
-
-    This project:
-
-    - [ ] Automates processes to an extend that humans are no longer required and in which job opportunities are significantly or severely affected or reduced.
-    - [ ] Supports or promotes social engagement, meaning that end users are engaged to seek for or support a more just society with more opportunities for those that have less education or resources.
-    - [ ] Supports or promotes collaboration, meaning that end users are engaged to contribute rather than to compete with each other.
-    - [ ] Supports or promotes common good over individual gain, meaning that the project's author, owner(s) or collaborator(s) prioritize to benefit society and community gain over their own individual profit or benefit.
-    - [ ] Reinforces stereotypes, meaning that benefits a group among another, or promotes prejudjement of certain groups based on their physical appearance, belief system or traditions.
-    - [ ] Supports or promotes individual gain over common good, meaning that the project's author, owner(s) or collaborator(s) seek to have individual gain or benefit at expense of affecting society in any possible way.
-
-3.  #### Individual's (humans/animals) Physical and Psychological Well Being.
-
-    This project:
-
-    - [ ] Supports or promotes physical harm to humans.
-    - [ ] Supports or promotes physical harm to animals.
-    - [ ] Supports or promotes addictive behavior among people or end users.
-    - [ ] Supports or promotes disharmony among people or end users.
-    - [ ] Supports or promotes volatility or tension amoung people or end users.
-    - [ ] Supports or promotes disrespect among people or end users.
-    - [ ] Supports the use of substances (drugs, hazard substances or products) that directly or indirectly harm persons or animals.
-    - [ ] Supports or promotes critical thinking, meaning that promotes the use of logic and reason over blinly trusting information without further analysis or questioning.
-    - [ ] Supports or promotes human values, meaning universal values such as peace, freedom, social progress, equal rights, human dignity (applies to animals as well).
-    - [ ] Supports or promotes productivity.
-
-4.  #### Cybersecurity and Civil Liberties.
+1.  #### Cybersecurity and Civil Liberties.
 
     This project:
 
@@ -75,6 +35,48 @@
     - [ ] Online survelliance.
     - [ ] Attacks.
     - [ ] Randsomware.
+
+2.  #### Society, Wealth, and Sustainable Practices.
+
+    This project:
+
+    - [ ] Automates processes to an extend that humans are no longer required and in which job opportunities are significantly or severely affected or reduced.
+    - [ ] Supports or promotes social engagement, meaning that end users are engaged to seek for or support a more just society with more opportunities for those that have less education or resources.
+    - [ ] Supports or promotes collaboration, meaning that end users are engaged to contribute rather than to compete with each other.
+    - [ ] Supports or promotes common good over individual gain, meaning that the project's author, owner(s) or collaborator(s) prioritize to benefit society and community gain over their own individual profit or benefit.
+    - [ ] Reinforces stereotypes, meaning that benefits a group among another, or promotes prejudjement of certain groups based on their physical appearance, belief system or traditions.
+    - [ ] Supports or promotes individual gain over common good, meaning that the project's author, owner(s) or collaborator(s) seek to have individual gain or benefit at expense of affecting society in any possible way.
+
+3.  #### Individual's (humans and animals) Well-being.
+
+    This project:
+
+    - [ ] Supports or promotes physical harm to humans.
+    - [ ] Supports or promotes phychological harm to humans.
+    - [ ] Supports or promotes physical harm to animals.
+    - [ ] Supports or promotes phychological harm to animals.
+    - [ ] Supports or promotes addictive behavior among people or end users.
+    - [ ] Supports or promotes disharmony among people or end users.
+    - [ ] Supports or promotes volatility or tension amoung people or end users.
+    - [ ] Supports or promotes disrespect among people or end users.
+    - [ ] Supports the use of substances (drugs, hazard substances or products) that directly or indirectly harm persons or animals.
+    - [ ] Supports or promotes critical thinking, meaning that promotes the use of logic and reason over blinly trusting information without further analysis or questioning.
+    - [ ] Supports or promotes human values, meaning universal values such as peace, freedom, social progress, equal rights, human dignity (applies to animals as well).
+    - [ ] Supports or promotes productivity.
+
+4.  #### Planet, Environment, and Natural Resources.
+
+    This project:
+
+    - [ ] Endangers Natural Resources.
+    - [ ] Promotes Global Warming.
+    - [ ] Promotes Deforestation.
+    - [ ] Promotes Droughts.
+    - [ ] Promotes Floods.
+    - [ ] Promotes Uncontrolled Development.
+    - [ ] Pollutes Soil and/or Water.
+    - [ ] Promotes to reduce consumption, reuse, or recycle.
+    - [ ] Secretely degrades de quality or performance of a service or product to increase or accelerate consumption only for individual benefit or profit.
 
 5.  #### Emerging Technologies.
 
